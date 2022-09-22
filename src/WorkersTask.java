@@ -7,6 +7,6 @@ public class WorkersTask {
         staffMembers = staffMembers + 94;
         System.out.println("New number of staffMembers is " + staffMembers);
         hours = staffMembers * workDay;
-        System.out.println("New number of work hours is " + hours);
+        System.out.println("New number of work  hours is " + hours);
     }
 }
